@@ -1,0 +1,27 @@
+{
+  "name": "queue-values",
+  "version": "1.0.0",
+  "description": "NodeJS simple queue values in one table from abother",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aswanevelder/node-queue-values.git"
+  },
+  "keywords": [
+    "node",
+    "queue"
+  ],
+  "author": "Anton Swanevelder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aswanevelder/node-queue-values/issues"
+  },
+  "homepage": "https://github.com/aswanevelder/node-queue-values#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "mongodb": "^3.2.2"
+  }
+}
